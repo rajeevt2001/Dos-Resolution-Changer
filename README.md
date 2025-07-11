@@ -99,6 +99,8 @@ The Modes:
  0x107: 1280x1024 16 colors (SVGA),
 It does not apply when I test it in DOSBox; you have to test it on your actual hardware.
 
+Also, I don't know why the background of some modes changes to white; I guess it's DOSBox's problem.
+
 Perhaps some bugs are also present, so it's not perfect yet.
 
 ## License

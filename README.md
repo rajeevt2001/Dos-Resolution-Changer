@@ -42,7 +42,7 @@ Complied on Borland Turbo C (Dos)
 
 ![Preview Image](Screenshots/Screenshot%203.png)
 
-**Mode 0x00 (First Text Mode 40x25) Applied**
+**Mode 0x00 (First Text Mode 40x25, 16 Colors) Applied**
 
 
 ![Preview Image](Screenshots/Screenshot%204.png)

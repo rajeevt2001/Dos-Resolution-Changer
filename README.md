@@ -32,19 +32,22 @@ Complied on Borland Turbo C (Dos)
 ## Screenshots
 ![Preview Image](Screenshots/Screenshot%201.png)
 
-Graphics Mode Page
+**Graphics Mode Page**
+
 
 ![Preview Image](Screenshots/Screenshot%202.png)
 
-Text Mode Page
+**Text Mode Page**
+
 
 ![Preview Image](Screenshots/Screenshot%203.png)
 
-Mode 0x00 (First Text Mode 40x25) Applied
+**Mode 0x00 (First Text Mode 40x25) Applied**
+
 
 ![Preview Image](Screenshots/Screenshot%204.png)
 
-Mode 0x04 (First Graphics Mode 40x25) Applied
+**Mode 0x04 (First Graphics Mode 320x200, 4 Colors) Applied**
 
 
 ## 🎮 Controls
